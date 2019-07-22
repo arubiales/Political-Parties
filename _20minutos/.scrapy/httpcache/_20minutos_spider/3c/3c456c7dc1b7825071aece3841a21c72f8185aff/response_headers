@@ -1,0 +1,17 @@
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding, User-Agent
+Age: 30
+Cache-Control: max-age=0, must-revalidate
+Date: Wed, 10 Jul 2019 10:25:53 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Server: nginx
+Via: 1.1 varnish (Varnish/5.1), 1.1 42eda27a8f21acb511ddb91858ee5d5b.cloudfront.net (CloudFront)
+X-20M-Cache: ip-10-0-0-8
+X-20M-Webserver: ip-10-0-6-85
+X-Varnish: 632334379 632020456
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: FRA2
+X-Amz-Cf-Id: Btv_dWhH-OujfVSa726R0kA7xWsCwaylHKoC1Y_UiEhaGr0heR8s3g==
